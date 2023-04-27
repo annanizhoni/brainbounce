@@ -28,29 +28,7 @@ Brain Bounce is an interactive project showcasing various concepts I've learned 
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/annanizhoni/brainbounce.git
-```
-
-Go to the project directory
-
-```bash
-  cd brainbounce
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
+Click on the green Code button and download the zip file. Click on the index.html file and view the interactive application in your browser.
 
 
 ## Roadmap
